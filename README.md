@@ -1,6 +1,6 @@
 # Perlin-Noise-parallel-programming-final-project
 
-In this project, a parallelized Perlin Noise algorithm is carried out. Based on C code, we’ve developed a variety of paralleled  Perlin Noise algorithm. Thus, we brought Perlin Noise even further on visualization, according to this noise’s feature, we then extended the visualization as a virtual earth map, which could later on be used to create game or any kinds of map related demo’s background.
+In this project, a paralleled Perlin Noise algorithm is carried out. Based on C code, we’ve developed a variety of paralleled Perlin Noise algorithms. Thus, we brought Perlin Noise even further on visualization, according to this noise’s feature, we then extended the visualization as a virtual earth map, which could later on be used to create game or any kinds of maps related demo’s background.
 
 ## Acceleration
 Compared to the original sequential perlin noise algorithm, we’ve successfully accelerated more than 10x!
